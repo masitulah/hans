@@ -1,0 +1,13 @@
+<body bgcolor="#33ff66"><title>my first web page</title><style>img {
+    width: 100px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 10px;
+}
+
+.username {
+    font-weight: bold;
+}
+
+.active {
+    background-color: rgb(25, 0, 255);
